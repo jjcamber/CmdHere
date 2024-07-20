@@ -1,0 +1,1 @@
+Run Python script as Admin. Keep files in the same directory. Right click try icon to change hotkey. Save and close. When hotkey is pressed, it will open Command Prompt as an Administrator in the current File Explorer directory. 
